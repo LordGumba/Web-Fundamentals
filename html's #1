@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>my page</title>
+    </head>
+    <body>
+    
+
+    </body>
+</html>
+    
+
+"paragraph"<p>
+    </p>
+"Headings"
+<h1>Jacob Roundy</h1>>
+<p> words about me </p>
+<h2>My Hobbies</h2>
+<p>Words about my hobbies</p>
+<h6>
+
+<header>
+
+</header>
+<footer>
+
+</footer>
+
+"Bullet List"
+<ul>
+    <li>        </li>
+</ul>
+
+"Numbered List"
+<ol>
+    <li>        </li>
+</ol>
+
+"attributes"
+lang ="en-us"
+
+
+
+<html lang="en-us">
+
+
+</html>
+
+
+<section>
+
+</section>
+
+<article>
+
+</article>
+
+<div>
+
+</div>
+
+<main>
+
+</main>
