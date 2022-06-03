@@ -19,9 +19,7 @@ nav a:hover,
 #background,
 .msg,
 footer{
-    background-color:rgba(20,30,20, .3);
-    padding: 25px 50px;
-    margin-top: 200px; 
+    background-color:rgba(37, 44, 37, 0.3); 
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -34,10 +32,17 @@ nav {
     display: flex;
     justify-content: space-around;
 }
+.logo {
+    width: 80px;
+}
 #logo_link {
     padding-top: 5px;
     justify-self: center;
     align-self: center;
+}
+.home-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 #hero {
     display: grid;
@@ -106,7 +111,7 @@ nav a,
 .book, .join,
 footer a {
     text-align: center;
-    color: #fcfbfb;
+    color: #5c5151;
     text-decoration: none;
 }
 footer h3 a:hover {
@@ -160,6 +165,7 @@ main section img {
 #hero-img {
     width: 100%;
 }
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
