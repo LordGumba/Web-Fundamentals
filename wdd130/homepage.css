@@ -126,7 +126,7 @@ footer h3 a:hover {
     line-height: 1.5em;
   }
   body {
-    background-color: #fcfbfb;
+    background-color: #D2A9A1;
     font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     margin: 0;
@@ -228,13 +228,4 @@ main section img {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
-  #blood{
-    opacity: 1;
-    height: 80px;
-    width: 160px;
-    background-color: crimson;
-    position: absolute;
-    top: 1000px;
-    left:80px;
-    z-index: 100;
-  }
+  
